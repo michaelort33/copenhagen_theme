@@ -14,6 +14,15 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.intro-title {
+  margin-bottom: 48px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.1;
+  color: #fff;
+  text-align: center;
+ }
+
 @media (min-width: 1024px) {
   body > main {
     min-height: 65vh;
